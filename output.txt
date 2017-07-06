@@ -1,0 +1,11 @@
+total 172
+-rw-r--r-- 1 ubuntu ubuntu 107983 Mar  6 18:01 Project_4_Shell.pdf
+-rw-r--r-- 1 ubuntu ubuntu    131 Mar  6 18:01 README.md
+-rw-r--r-- 1 ubuntu ubuntu   5145 Mar  9 19:52 example.c
+-rw-r--r-- 1 ubuntu ubuntu   1162 Mar  6 18:01 fork_exec_wait.c
+-rwxr-xr-x 1 ubuntu ubuntu   8732 Mar  9 19:53 fork_exec_wait.c.o
+-rw-r--r-- 1 ubuntu ubuntu   1370 Mar  6 18:01 fork_exec_wait_redirect.c
+-rwxr-xr-x 1 ubuntu ubuntu   8792 Mar 10 02:22 fork_exec_wait_redirect.c.o
+-rwx------ 1 ubuntu ubuntu      0 Mar 10 02:22 output.txt
+-rw-r--r-- 1 ubuntu ubuntu   2214 Mar 10 02:22 shell.c
+-rwxr-xr-x 1 ubuntu ubuntu  13833 Mar  9 19:52 test
